@@ -19,3 +19,8 @@ rm fasta-archive.zip
 mv *.fasta data/raw_data
 echo "Downloaded fasta files and deleted unzipped archive"
 
+#Adding .gitkeep files in any empty directories 
+touch code/.gitkeep
+touch output/figures/.gitkeep
+touch output/tables/.gitkeep
+echo "Added .gitkeep files to any empty directories" 
