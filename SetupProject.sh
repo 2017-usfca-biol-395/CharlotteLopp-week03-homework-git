@@ -3,6 +3,7 @@
 # Charlotte Lopp
 # clopp@dons.usfca.edu
 # September 9, 2017
+# A bash code setting up the directory infrastructure for this project
 
 # Making directory and file structure
 cd CharlotteLopp-week03-homework-git
